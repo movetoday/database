@@ -16,6 +16,7 @@ This directory contains hands-on practice and notes from database-related course
 ---
 
 ## 🗂 Folder Structure
+
 /database
 └── /lectures
 ├── /01_database_intro # Inflearn - Database Introduction
