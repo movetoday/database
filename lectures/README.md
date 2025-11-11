@@ -9,7 +9,7 @@ This directory contains hands-on practice and notes from database-related course
 | Course Title | Platform | Status | Folder |
 |--------------|----------|--------|--------|
 | Database Introduction | Inflearn | ✅ Completed  | `01_database_intro` |
-| Database Fu | Inflearn | 🔄 In Progress | `02_database_basic` |
+| Database Fundamentals | Inflearn | 🔄 In Progress | `02_database_basic` |
 | Database Design | Inflearn | ⏳ Planned | `03_database_design`|
 | MySQL Administration / MySQL for Beginners | Udemy | 🔄 In Progress | (to be created) |
 
