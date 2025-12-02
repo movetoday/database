@@ -8,15 +8,7 @@
 
 | Date | Category | Topic & Key Activities | Link |
 |:---:|:---:|:---|:---:|
-| 25.12.02 | **Architecture** | **MySQL 8.0 Replication Setup on Docker**<br>- Configured Master-Slave connection in a containerized environment<br>-  | [View](./25-12-02_repl_docker.md) |
-| 25.12.02 | **Tuning** | **Optimization using Invisible Indexes**<br>- Verified index effectiveness using the Invisible Index feature<br>- Analyzed changes in the Optimizer Execution Plan (Explain) | [View](./2025-12-02_Tuning_InvisibleIdx/README.md) |
-| 25.xx.xx | **HA** | **MHA (Master HA) Auto-Failover Test on AWS**<br>- Simulated Master failure and verified automatic failover<br>- Developed VIP management scripts | - |
-| 25.xx.xx | **Backup** | **Physical Backup & Recovery with XtraBackup**<br>- Performed Full & Incremental backups on Linux<br>- Tested Point-in-Time Recovery (PITR) | - |
-
-
-| Date | Category | Topic & Key Activities | Link |
-|:---:|:---:|:---|:---:|
-| <sub>25.12.01</sub> | <sub>**Architecture**</sub> | <sub>**MySQL 8.0 Replication Setup on Docker**<br>- Configured Master-Slave connection in a containerized environment<br>- Resolved MySQL 8.0 authentication plugin compatibility issues</sub> | <sub>[View](./2025-12-01_Replication_Docker/README.md)</sub> |
+| <sub>25.12.02</sub> | <sub>**Architecture**</sub> | <sub>**MySQL 8.0 Replication Setup on Docker**<br>- Configured Master-Slave connection in a containerized environment<br>| <sub>[View](./25-12-02_repl_docker.md) |</sub> |
 | <sub>25.12.02</sub> | <sub>**Tuning**</sub> | <sub>**Optimization using Invisible Indexes**<br>- Verified index effectiveness using the Invisible Index feature<br>- Analyzed changes in the Optimizer Execution Plan (Explain)</sub> | <sub>[View](./2025-12-02_Tuning_InvisibleIdx/README.md)</sub> |
 | <sub>25.xx.xx</sub> | <sub>**HA**</sub> | <sub>**MHA (Master HA) Auto-Failover Test on AWS**<br>- Simulated Master failure and verified automatic failover<br>- Developed VIP management scripts</sub> | - |
 | <sub>25.xx.xx</sub> | <sub>**Backup**</sub> | <sub>**Physical Backup & Recovery with XtraBackup**<br>- Performed Full & Incremental backups on Linux<br>- Tested Point-in-Time Recovery (PITR)</sub> | - |
