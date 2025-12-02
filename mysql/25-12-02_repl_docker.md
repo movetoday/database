@@ -1,3 +1,8 @@
+# Docker를 이용한 MySQL replication test
+
+상태: 완료
+작업일자: 2025/12/02
+
 ## **Docker 기반 MySQL 8.0 Replication 구성 TEST**
 
 해당 서버 github codespace 사용
